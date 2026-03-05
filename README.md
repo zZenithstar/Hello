@@ -1,2 +1,3 @@
-# Hello
-ı trying something :D....
+# Hello Everyone!
+Purpose: My first Python to try something
+Developer: İbrahim Yıldız|Computer Engineer
